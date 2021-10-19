@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Ucesnik.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Dogadjaj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Ekipa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Organizator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Osoba.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Dogadjaj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Ekipa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Organizator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Osoba.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\Ucesnik.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\infodogadjaji.txt" />
+    <Text Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\infoekipe.txt" />
+    <Text Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\infoekipedogadjaji.txt" />
+    <Text Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\infoorganizatori.txt" />
+    <Text Include="..\..\..\..\OneDrive\Dokumenti\GitHub\Grupa4\Project\karta.txt" />
+  </ItemGroup>
+</Project>

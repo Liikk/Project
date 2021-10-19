@@ -1,0 +1,26 @@
+﻿  Dogadjaj.cpp
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\Dogadjaj.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+  Ekipa.cpp
+  main.cpp
+  Organizator.cpp
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\Organizator.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+  Osoba.cpp
+  system.cpp
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(131,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(183,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(200,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(223,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(233,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(293,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(318,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(344,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(350,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(413,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(428,27): warning C4018: '>': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(435,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\amarl\OneDrive\Dokumenti\GitHub\Grupa4\Project\system.cpp(501,21): warning C4018: '<': signed/unsigned mismatch
+  Ucesnik.cpp
+  Generating Code...
+  ProjekatHakaton.vcxproj -> C:\Users\amarl\source\repos\ProjekatHakaton\Debug\ProjekatHakaton.exe
